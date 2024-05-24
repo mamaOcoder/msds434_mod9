@@ -1,6 +1,6 @@
-module mod7
+module mod9
 
-go 1.23
+go 1.21.1
 
 require (
 	cloud.google.com/go/bigquery v1.61.0
